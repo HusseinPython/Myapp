@@ -1,0 +1,19 @@
+body.dark .window {
+    background-color: #181824;
+    color: #fff;
+}
+
+body.dark input[type='text'] {
+    background-color: #25273c;
+}
+
+
+body.dark .box-to-do .task-box {
+    background: #25273c;
+    color: #fff;
+}
+
+.box-to-do .task-box .task .checkbox.checked+div {
+    text-decoration: line-through;
+    color: #eeeeee2d;
+}
